@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 
 @mixin pad{
-  @media (max-width:675px){
+  @media (max-width:768px){
     @content;
   } 
 }
