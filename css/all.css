@@ -539,6 +539,10 @@ img {
   }
 }
 
+.w-min {
+  min-width: 150px;
+}
+
 @media (max-width: 675px) {
   .body-experience {
     display: -webkit-box;

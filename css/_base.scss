@@ -356,6 +356,10 @@ img{
   }
 }
 
+.w-min{
+  min-width: 150px;
+}
+
 .body-experience{
   @include pad {
     display: flex;
