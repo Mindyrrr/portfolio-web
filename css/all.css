@@ -540,7 +540,7 @@ img {
 }
 
 .w-min {
-  min-width: 150px;
+  min-width: 180px;
 }
 
 @media (max-width: 769px) {
